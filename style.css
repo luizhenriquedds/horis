@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    text-align: center;
+    color: black;
+}
+
+section {
+    background-color: white;
+    width: 35rem;
+    padding: 0.7rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.4rem 0.7rem 0.7rem rgba(0, 0, 0, 0.445);
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    
+}
+
+div {
+    color: black;
+    text-align: center;
+    padding: 0.4rem;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    padding: 1rem;
+}
